@@ -12,13 +12,13 @@ function clues() {
 
     fill("white")
     textSize(15)
-    text("A T A D A S B A", 700,150)
+    text("C U T N I F O N", 700,150)
     fill("lightblue")
-    text("Hint: Stores all Information !!", 700,170)
+    text("Hint: Performs a Particular Task !!", 700, 170);
 
     fill("white")
         textSize(15)
-        text("C U T N I F O N", 100,350) 
+        text("A T E D A S B A", 100,350) 
         fill("lightblue")
-        text("Hint: Performs a Particular Task !!", 100, 370);
+        text("Hint: Stores all Information !!", 100, 270)
 }
